@@ -4,7 +4,7 @@
 
 ## About Me
 
-[Replace this paragraph with at least three sentences: who you are, why you are learning cybersecurity, and one learning goal for this course. Keep the `## About Me` heading and the rest of this README.]
+I am Joya Jones, a former startup operations manager and AI enthusiast. I joined CyberVisionaries Institute to become an asset in the cybersecurity field by building sharp technical skills and a solid theoretical foundation for the work. I want to help people and organizations see the full scope of their digital lives, understand what needs protecting (and why), and choose security solutions that fit. I’m especially excited to learn about cloud security and to be on the team that monitors and protects those environments every day.
 
 This repository documents your hands-on learning through the **CyberVisionaries Institute Cyber Foundations (Tier I)** program.
 
