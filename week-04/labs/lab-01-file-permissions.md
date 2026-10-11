@@ -318,6 +318,8 @@ This lab's written answers are submitted through the **CyberFoundations Lab Port
 10. Click **Submit to GitHub**. The Portal commits this worksheet to `week-04/labs/lab-01-file-permissions.md`. It commits your answers and the image link — not the image file itself, which is why step 4 matters.
 11. Open the committed file on GitHub and check that the screenshot shows. If you change anything later, click **Save Progress** and **Submit to GitHub** again.
 
+![Permissions audit — final ls -l](https://raw.githubusercontent.com/joyajones/joya-jones-cyberfoundations-portfolio/3be0fa5ce1134b6b9f7589f8ba840216327fa3d1/assets/screenshots/week-04/cli-permissions-audit.png)
+
 ---
 
 *CyberVisionaries Institute · Cyber Foundations · Tier I*
